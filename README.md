@@ -82,7 +82,3 @@ A full-stack application for managing and exploring jewelry products:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitjangid17&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjangid17&theme=tokyonight" alt="GitHub Streak" />
-</p>
