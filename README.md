@@ -86,16 +86,3 @@ A full-stack application for managing and exploring jewelry products:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjangid17&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-### 📌 Pinned Projects (optional)
-
-> You can pin key projects to your GitHub profile manually, but here are some you might include:
-- **🏬 Jewellery Catalogue (Full Stack)**
-- **📝 Blog CMS with Next.js + Node**
-- **🛍 FastKart Ecommerce Admin Panel**
-
----
-
-Let me know if you'd like help **adding project images**, **custom badges**, or **automating repo pins** using a GitHub Action.
