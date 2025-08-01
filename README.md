@@ -1,30 +1,53 @@
 <h1 align="center">Hi 👋, I'm Rohit Jangid</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 A passionate Frontend Developer from India</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="rohitjangid17" /> </p>
-
-- 🔭 I’m currently working on [Ecommerce Project](https://fastkart-admin-woad.vercel.app/)
-
-- 🌱 I’m currently learning **Node.js, Express.js and Mongodb**
-
-- 👨‍💻 All of my projects are available at [https://rohit-portfolio-web.vercel.app/home](https://rohit-portfolio-web.vercel.app/home)
-
-- 📫 How to reach me **jangidrohit817@gmail.com**
-
-- ⚡ Fun fact **I think i am funny😜😜**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-jangid-984729225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-jangid-984729225" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=React+%7C+Next.js+%7C+Angular+%7C+Node.js;Passionate+about+UI%2FUX+%26+Performance;Open+to+Freelance+%26+Full-time+Opportunities" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitjangid17&show_icons=true&locale=en&layout=compact" alt="rohitjangid17" /></p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rohitjangid17&label=Profile%20views&color=0e75b6&style=flat" alt="rohitjangid17" /> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitjangid17&show_icons=true&locale=en" alt="rohitjangid17" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjangid17&" alt="rohitjangid17" /></p>
+- 🔭 I’m currently working on **Jewellery Catalogue Project (Full-Stack)** – Admin & Customer Panels with user-specific categories, products, wishlist, cart & more.
+- 🌱 I’m learning **Node.js, Express.js, and MongoDB**
+- 📫 Reach me at **jangidrohit817@gmail.com**
+- ⚡ Fun fact: **I think I’m funny 😜**
+
+---
+
+### 🧑‍💼 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/rohit-jangid-984729225" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack & Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,redux,tailwind,bootstrap,sass,nginx,firebase,git,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjangid17&layout=compact&theme=tokyonight" alt="Top Langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitjangid17&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjangid17&theme=tokyonight" alt="GitHub Streak" />
+</p>
